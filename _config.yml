@@ -17,7 +17,7 @@ title: ULA Training at UCSB
 tagline: Teaching Computer Science (and Data Science)
 description: A website for the UCSB Undergraduate Learning Assistant (ULA) Training Course
 author: Yekaterina Kharitonova
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/new' # the subpath of your site, e.g. /blog
 url: 'https://ucsb-teaching-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 google_site_verification: ''
