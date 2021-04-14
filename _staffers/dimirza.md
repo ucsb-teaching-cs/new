@@ -2,7 +2,7 @@
 name: Diba Mirza
 role: Instructor
 website: https://sites.cs.ucsb.edu/~dimirza/
-photo: 
+photo: DM-photo.jpg
 pronouns: she/her
 ---
 
