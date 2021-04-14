@@ -28,15 +28,13 @@ Several Computer Science professors are involved in teaching this course and coo
 * [Spring 2021](https://ucsb-teaching-cs.github.io/s21) taught by Prof. K
 * [Winter 2021](https://ucsb-teaching-cs.github.io/w21) taught by Prof. K
 * [Fall 2020](https://ucsb-teaching-cs.github.io/f20) taught by Phill Conrad
-* [Spring 2020](https://ucsb-teaching-cs.github.io/s20) taught by 
-* [Winter 2020](https://ucsb-teaching-cs.github.io/w20) taught by 
-* [Fall 2019](https://ucsb-teaching-cs.github.io/f19) taught by 
-* [Spring 2019](https://ucsb-teaching-cs.github.io/s19) taught by 
-* [Winter 2019](https://ucsb-teaching-cs.github.io/w19) taught by 
+* [Spring 2020](https://ucsb-teaching-cs.github.io/s20) taught by Richert Wang
+* [Winter 2020](https://ucsb-teaching-cs.github.io/w20-mirza) taught by Diba Mirza
+* [Fall 2019](https://ucsb-teaching-cs.github.io/f19) taught by Richert Wang
+* [Spring 2019](https://ucsb-teaching-cs.github.io/s19) taught by Diba Mirza
+* [Winter 2019](https://ucsb-teaching-cs.github.io/w19) taught by Diba Mirza
 * [Fall 2018](https://ucsb-teaching-cs.github.io/f18) taught by 
 * [Spring 2018](https://ucsb-teaching-cs.github.io/s18) taught by 
-* [Winter 2018](https://ucsb-teaching-cs.github.io/w18) taught by 
-* [Fall 2017](https://ucsb-teaching-cs.github.io/f17) taught by 
 
 # Resources and References
 
